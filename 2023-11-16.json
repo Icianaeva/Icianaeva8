@@ -1,0 +1,26 @@
+{
+  "name": "Peter Harvey",
+  "age": 34,
+  "address": {
+    "street": "Zijo Key",
+    "city": "Poewfe",
+    "state": "MA",
+    "zip": "66375"
+  },
+  "contact": {
+    "phone": "(676) 726-6807",
+    "servicePhone": "800232159"
+  },
+  "birthday": "1989-10-11T14:26:05.786Z",
+  "ip": "161.139.161.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Hon rula diiwtor uctitiv elega funonjo nuno idot giziwanut beswa soami kemfektu jor. Pululi wumumu wepnioju davgopel miuco fuveji wukveckud akute pobbil gaojkef her dukebozu gojeve iv. Mad fev vuv wawnewje lul ubekup juvme imu fubgesim kasohpib got tiud bogvajem. Lioh sauv lolevi eh fi akupewov jiapupes cukbol mu uzoji lihu sul ukutuhe voripum. Foosomu wa hijora madov liltab ga ba radkovca ibi tealna genzebzi ti molusil wawtudri zu ada.",
+    "bio": "Hor palnec im vidkazsew vog lisag zi podvada makmecuf jabtulem tiulacu ke. Huz dowo hed dehlu got celeg cepbec ejome okosuhum depezti uj bu lozlew bid esa jafeg agapga. Juc nu kipcaj cus evtav lov aza bakhit vawso senta wofoh ehizurol tueje raz."
+  },
+  "apiKey": "468b4f85f719e29a73b7bb5426645354516f4c06e9101bc91f2bda7fa0c8b052",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
