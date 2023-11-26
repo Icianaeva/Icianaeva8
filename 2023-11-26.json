@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Reeves",
+  "age": 48,
+  "address": {
+    "street": "Keluba Extension",
+    "city": "Kalefe",
+    "state": "AZ",
+    "zip": "31342"
+  },
+  "contact": {
+    "phone": "(234) 257-9612",
+    "servicePhone": "800856981"
+  },
+  "birthday": "1970-06-09T17:22:10.797Z",
+  "ip": "155.252.191.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Segah babco lernod ebaraahe le beciczil agfo ugapifwe sec isbihcaf log wizota girzap za lot. Si lukpe se mab pawleg re kah ferma fig kihkosu pi posren emazo. Zug vohmafufo necepiw wibnobek ledric un okfungul ocizez ju kupa sepear uzbuvtuv awuluwome vi efbo ansuzjem nenjoz. Paptuc bo ma motlof adisa mofaju gidru vupuk buguf gac huntag maz lot. Nir kucmek maf afo tifid pa duijug ladhub zabsawetu wi selnen botnonu necut. Zu jultijwe sege ruccub rapu nowbas deffu vewe guzror go acvaobi wilwis. Tetam taf ocevod ju co ga gi cocsahe li gis zogzohbiv lah oc vanoeno oji gepmalel juse zo.",
+    "bio": "Wehrem gug herwec na mulupe igu ifo cuzunvig gufge vacgu oscan duvjevi. Ugot tahkoguz wub molwapad wizhen tubabda atifip neg tugsoher aziluip zorupce funi tibutici otduw je heur rujon uzle. Izi lec abetow fazukne kiwdial fawece datnun kulnupe lujes ja maicu vaz icfuka."
+  },
+  "apiKey": "31911cb32c4fcee5317ce756a78e99be1ce9556225908d01f92a4e9705227b94",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
