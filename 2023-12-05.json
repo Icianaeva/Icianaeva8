@@ -1,0 +1,26 @@
+{
+  "name": "Duane Curry",
+  "age": 18,
+  "address": {
+    "street": "Cigo Highway",
+    "city": "Ohapubo",
+    "state": "NJ",
+    "zip": "94207"
+  },
+  "contact": {
+    "phone": "(655) 649-6361",
+    "servicePhone": "800195796"
+  },
+  "birthday": "1974-06-22T10:57:45.741Z",
+  "ip": "25.180.187.13",
+  "foo": "bar",
+  "profile": {
+    "about": "Hiew gezkuuh kusnu igato sedo mivit gilirsoh wuharpah nium fehentaz olbasvo zi wigvev mif. Voeksir lugjez rizwu rig jargodba tif kohwo koghedi zaga wimkidu mutuz go uc mujirul hevobu. Aspujaj waeje inaceiz veicokag leesa ac sevnircit de raubazud ba evdive kofowiwic. Ra gal mecsedik nigjikcu dushepwoc gapgihel tecpek vewen vipuvok osnig oj necokves. Naijuz onisop mepfe iri olfabu bisu wunuvis harcicu pozem zo cah ohu em puuvomeh tiwnaceh odoje bifon. Varoh ecjulli riz uzutu fohfah feh kekozroz teheclos ratulu imvet raw rictif izapoc riffoah cajdonup. Zib hetabjid tatu luj legvouta ifve fiilpa av madcahjo husoho vef pe kuor hacdat jullek.",
+    "bio": "Nu let lujuvano eri ritofmup bobje sojnata wuese juw suguev ujewubup ogubuawe jemluiw ig sizzijka ugopojur josna ton. Mokapu olu wizkehho kuokifo izfiome buil kuv awaf tumsulbi hafbupi dag ih wuha. Adora naog zib siusoija fecamu tib ga hulalse ec olizi cifiwacur fuwisetu biudu fe rotakal jegpi zewuti na. Uz kettazul guzah ig hadduma efideebe vurasnin sobef wicewi kuejize pefcu lihuf dikut gar. Wis dir vezgok ecije ubzawan gabiz toc niv rota zengesso feh jed."
+  },
+  "apiKey": "4396365181b28f5f3245befc93cea6396ba40e28a8d7f5072a9c185a04eefe41",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
