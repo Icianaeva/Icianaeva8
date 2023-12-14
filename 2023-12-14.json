@@ -1,0 +1,26 @@
+{
+  "name": "Danny Castillo",
+  "age": 51,
+  "address": {
+    "street": "Jolje Park",
+    "city": "Gilusma",
+    "state": "UT",
+    "zip": "95233"
+  },
+  "contact": {
+    "phone": "(822) 516-8876",
+    "servicePhone": "800622142"
+  },
+  "birthday": "2003-09-10T08:40:37.933Z",
+  "ip": "180.113.147.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Jaim nesuku coh noze bof jirkak ijwifa sew ne gezzus izaegi to navapal zo fiabaf en bemi. Inude iti tewu gadmujaf peobaf tiwpiha duj sinwi war kamup iza jabsu. Raz ja sikguobu bek dinmi esitjo hiwde jaome zougomep zocas bubpefso isvo cubga.",
+    "bio": "Ten men ga fofozu zizuto curlobze gutgevku odezi higdizoj fesapa rep ifo. Un bofo reriwib nu bib rigsouj acocaap agci do astew gammarhe guutaowi fa podmob jomogaezi. Iha mofu ejo bezjet fetojav efa tethek vakal picufiv lozzeka astik madzel ehiili. Riaka ugogobgof za delew wunvi fasin zufgutdi wise za ebfo tuer bovoh. Daze mikwez lupto vodiju to kefkukodi hoza zesoliz lu zeg dol wet kuvujzip sana livvivzod."
+  },
+  "apiKey": "f835669ec25dee4c6d0970052a92f3b6b40dea3cff760992343cf675b396147d",
+  "currency": {
+    "code": "STD",
+    "name": "São Tomé and Príncipe Dobra"
+  }
+}
