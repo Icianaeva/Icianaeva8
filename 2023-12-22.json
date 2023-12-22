@@ -1,0 +1,26 @@
+{
+  "name": "Roxie Cannon",
+  "age": 43,
+  "address": {
+    "street": "Orpod Court",
+    "city": "Cinulac",
+    "state": "WA",
+    "zip": "35065"
+  },
+  "contact": {
+    "phone": "(349) 251-4007",
+    "servicePhone": "800422662"
+  },
+  "birthday": "1986-09-23T22:42:17.956Z",
+  "ip": "177.78.236.236",
+  "foo": "bar",
+  "profile": {
+    "about": "Futla zeivu no vef kado ro dobujfaw ne rouhzu maf ape sok. Baricifa pov imuha fihotka vuzboeke pat irucizja lujfa ko zancuv pozahiro tudfomu jigsitoh. Sesol hepelfid ete loc ligtewuk rintakdon du dunik ki zazrov oljetmal bokugte ola. Ukvu dam cicziwdaj hiore jo ki red keh nezuaj lepsiz oguuleevi ranorude vesotu.",
+    "bio": "Hafunrer vo lufwe porroveh buntoheh on epuhu argufhe jag ug nizwogat cawwus ti gi eji. Zag mis winioc ime piruwfe fuvbed kuzrin ti ef taci ageso mukve. Weal dih bo me jib niwaupe zojuvin laaduej muswaj wiiwakuk ci zuopetal."
+  },
+  "apiKey": "beec7c4113135e2863c9d3dd0f68fbcace5aa2898d477d5b8f319913dfc51d94",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
