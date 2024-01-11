@@ -1,0 +1,26 @@
+{
+  "name": "Jerome Kelly",
+  "age": 24,
+  "address": {
+    "street": "Nerop Place",
+    "city": "Pudhinpu",
+    "state": "NH",
+    "zip": "07074"
+  },
+  "contact": {
+    "phone": "(411) 219-9679",
+    "servicePhone": "800754778"
+  },
+  "birthday": "1982-10-23T11:21:35.748Z",
+  "ip": "117.18.159.141",
+  "foo": "bar",
+  "profile": {
+    "about": "Wudho ca espi ijuje ratowe livohawuh bize bumpov mabce wid ipa ra rocgiref fuhinlin zolroba ethas ezmaro. Luhrufibu mi ewasojoh emaguub zuhhom fa agicakba no fizrire vi epa baen lo tagig olare cezdezke sadpuflil. Keuzi hipmummuj woha lobwop mul ba doojcah bupe cili atseh zefobeuzi mokkesil. Caezmes wu li pudimvec fir zo goco wadesfed ru loupahon faaduag vasjosmew kosi emaabu simisowit sekpiovi.",
+    "bio": "Corwo ride nehecu aduec bot miowa wi tifalti ze we ov ra duriwpe jofato. Sa ebum co vi ewiko fugo covip paj tolpu orruh ketwe hi me it. Miviv atguwbuz ofjoj zohvolok hirasri ekuc agaemedeb pe didcegtas nulocezo suntophol zuboeg enzetuw beftuc rojepu."
+  },
+  "apiKey": "32a8e81e32550348522c313e4a394da6600da34e301bfae0ffdd6c0bbcb0b9ab",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}
