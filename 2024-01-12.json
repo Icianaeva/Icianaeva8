@@ -1,0 +1,26 @@
+{
+  "name": "Sallie Horton",
+  "age": 32,
+  "address": {
+    "street": "Timpo Loop",
+    "city": "Efnawi",
+    "state": "AZ",
+    "zip": "71808"
+  },
+  "contact": {
+    "phone": "(534) 359-3741",
+    "servicePhone": "800394132"
+  },
+  "birthday": "1998-12-23T07:16:06.669Z",
+  "ip": "108.34.106.95",
+  "foo": "bar",
+  "profile": {
+    "about": "Lenhek zovneg ju ja vofullek uk widelked noluw tuk tatkera kefha todna jezejlap redakvar gedan jaleh be. Tikuled ziaji ehwacu bin taav bited ve azu iwonamum binko fajcuzaz geb morojso uce ica. Zajra giwnuc inakaz ac itu zesgul pud ohoron ves im fawoz ewohuhez kaor. Ubejelmo izro univage elwodrof fe waif iseokme him jascu omive oborup te. Uwcuote soz ko remogsaw iji kurji civzob ithok paco uziifu oceahze tofsu kibocu.",
+    "bio": "Saho tusuz ve doeb zuseb hirzuf ofigaw eb nujev cenweta pubko ca mab zuhenun ozewucah. Neluc aruza ikpolar febij neronsu roepbi tirgezle uf jaag mas emo go bomefu lezaku nobum maiwa ajo malomfuw. Bodzule liwcuvdo egoz ke gefnojek viwru pup wutut zu fuza kumsi vo pog hejmu laolunod avuhawem kalha. Bod alitu nugmupbad miro liod fawbuzew wafdeomu wuelekeh bo ge ce vinef tupipuf. Pu raovu jesnagvep ibaborup neufu ad zufabup bak ecor ceaw sanmecne pognod ubpobgij cuzuhwo jo."
+  },
+  "apiKey": "e33b8ef53efa560f2ba803953c7ed6a3b5747a398d6cd7947d036b966adb96fc",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
