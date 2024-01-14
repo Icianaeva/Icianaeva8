@@ -1,0 +1,26 @@
+{
+  "name": "Howard Figueroa",
+  "age": 51,
+  "address": {
+    "street": "Zuna Terrace",
+    "city": "Eglohvu",
+    "state": "AK",
+    "zip": "66667"
+  },
+  "contact": {
+    "phone": "(870) 549-1907",
+    "servicePhone": "800618258"
+  },
+  "birthday": "1966-02-04T17:24:28.235Z",
+  "ip": "108.248.93.236",
+  "foo": "bar",
+  "profile": {
+    "about": "Koldotev wis hum nabkufwam egunotol fi uvo vasufosi soilpi joekbu tuhav nuku. Cip pera kacoz pekac ra ujope cuaf zacenvor da ge seposiw pocwu wohdaepo jazucwa lubmeh li. Gi wuoc jedihucuw za gej logwe agro rarahat uz ijewicwu uriri havhof.",
+    "bio": "Gunilog hi ito puwihzi vejopob uzoco vuc da mewnub ehoecpic mefeza kile tahsem cemuzdi jif. Gucaweg vihjab mig hos divguztu kofa agojujjoh si huwdoku rorofu vopdusec mo comvu if. Ror gu fezu uwveklid wuwwifi situk zo pekhulzi beseop vildu koadsi tuv boles saksotac nufle."
+  },
+  "apiKey": "3fe2a0d55f3f9d1cd7f66d1e09b60e0a39dea90a09a7dfc9d4b2ab0ecfa410ab",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
