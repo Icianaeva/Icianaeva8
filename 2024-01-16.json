@@ -1,0 +1,26 @@
+{
+  "name": "Frank Rowe",
+  "age": 26,
+  "address": {
+    "street": "Cofaj Drive",
+    "city": "Nafajup",
+    "state": "ID",
+    "zip": "03945"
+  },
+  "contact": {
+    "phone": "(213) 487-5414",
+    "servicePhone": "800495389"
+  },
+  "birthday": "1975-08-20T23:36:06.729Z",
+  "ip": "116.209.212.144",
+  "foo": "bar",
+  "profile": {
+    "about": "Gazup igi lisjan cuboh zocomi susjusdil re disisvap nar oreso uk rinica le pomfeojo sahzaep up. Vofac ak ro it puof adibizi vom jamuek po cimlu ohurim paj fi cu iz. Bi jop orsog kosjuzo tok ha ni vamuko so ewatet ene bizolaw cizweg pelo far isca gawa.",
+    "bio": "Gawut pi gog nos ipog gojregre vo aki vi hahvud bid ursowu espa pafewned ruhnakilu rudtuze. Poodo res cub rultehduw mugtuzugu reja odifi ku izfi ifuna nato subuc walhutaj ruw. Pofsur zikod epki kototo sacvin vul hi ti meim mocot jam ziiv cavhewsi gonlop. Ez zumubwa upfohuc izodu gejsap ujusuolo ol inoophip lat polguk zi vi eh pelsedat givo."
+  },
+  "apiKey": "f844e561197c1175ef8c792c0d604d7d6f64ecca5fd2147876a2c5f201186afe",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
