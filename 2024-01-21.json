@@ -1,0 +1,26 @@
+{
+  "name": "Arthur Bowen",
+  "age": 28,
+  "address": {
+    "street": "Urakik Highway",
+    "city": "Nulifwu",
+    "state": "SD",
+    "zip": "18562"
+  },
+  "contact": {
+    "phone": "(750) 992-5835",
+    "servicePhone": "800995811"
+  },
+  "birthday": "1994-05-10T01:35:54.915Z",
+  "ip": "125.38.119.193",
+  "foo": "bar",
+  "profile": {
+    "about": "Ro wislof cuj fommusna heipawi gem vieba gid lu ujre lip fovaige feuv hifkupcoh azavew gecuro uco ruwa. Libne tudbe jaf ti ibevujuh suwkevves dedruile adasewu zamu age hihtu vivinefo pe votju ohohed. Jas ellulu pa avecohi onsun nikviguc lunkew fal wohpekra dimbodded afvi babijtev atuvilvec.",
+    "bio": "Puke aci ka migutaj incualu juneb lib fav teufefu gegganed jev owefeg lordezma let soenoupo keug. Su gabod fegimu wet sebun zir bitic pu ucto ne bibdub fe ga cifibmoh. Du wismojsav uvcejto le ti zuvpi gag jubahu loc olubudki ja ifolada."
+  },
+  "apiKey": "d562f3f8e3637594a095e1bf09649589859fc06d95033ae7452b0c611351c8f9",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
