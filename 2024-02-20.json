@@ -1,0 +1,26 @@
+{
+  "name": "Fanny Wong",
+  "age": 64,
+  "address": {
+    "street": "Ofci Pike",
+    "city": "Cobside",
+    "state": "NH",
+    "zip": "30157"
+  },
+  "contact": {
+    "phone": "(615) 736-2173",
+    "servicePhone": "800587736"
+  },
+  "birthday": "1968-04-14T15:21:15.298Z",
+  "ip": "193.21.208.242",
+  "foo": "bar",
+  "profile": {
+    "about": "Ad olnin web wibzi visehu jegek pemu evetapit udavues fiv lavje zij. Izefow soza uce vajharet acuugrik ehezi cefam gebseblat nemgeje udporun fa tukerip. Ag nisebati ardop weh ilolod socewu de uba kazlah ret ma uf am buko bibeen nu.",
+    "bio": "Inu zifol zedpatpez dovu opi ek ficipeve pac emelu sevokvet ho cagegse jutjo tehefo hakivi vegcut. Siidien mesenmej ic vok ulovo sol fap konwikom togzage lu retar or pati redkoh ave. Luv naz fa lodtusow inisut edvug da gitpojcaj haglubago jeuscev telam jukge naf nun ficti. Ru sehata udi da rebofaz zesiwbu guwakaata mud dacvafmug vulok gocuf tevadme awe tolahufe daca veumiti vugwe nur."
+  },
+  "apiKey": "3c4d9354406ba32f5f951b7b933c18118128ea622a20ddef78aaa9f0fbbc441f",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
