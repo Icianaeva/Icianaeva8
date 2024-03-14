@@ -1,0 +1,26 @@
+{
+  "name": "Gabriel Beck",
+  "age": 49,
+  "address": {
+    "street": "Iniit Ridge",
+    "city": "Balapenol",
+    "state": "AZ",
+    "zip": "15408"
+  },
+  "contact": {
+    "phone": "(568) 719-9322",
+    "servicePhone": "800253176"
+  },
+  "birthday": "2006-12-24T17:00:02.335Z",
+  "ip": "91.120.114.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Vurbel cagzis ziwcira awojasba ril kejaru li uliwi sapufi uh haekre vi mijerli it raw hihekib. Mep ofifo puc egi huhluv imecogu hezrumtip pozak sa biwi rilan kizzu. Ikamuwif wecopa vubla sa wino owenip lorehla zuni dibmud kepniwlud popcadez jojifos kehewviv. Zujrebsa nozenu fa riwdodi dejcag toeroca nisaw duludus te furih cenbode evcan wioke su fogcoun.",
+    "bio": "Denasol hapgin owor ijipe iraiv bu nus umuje we tir sedpabgu tu pac ovom nopofawuh nok. Fehberi jic okaemfiz zim uniavo vecagu pajiwat keltepat za locul apma rud vu. La pap fejubim tib acoto meh guhuhana reztalim redvuvmed redwioh ehium doluwad."
+  },
+  "apiKey": "53975b0032fd5662d962e222af39bcb1d1b2f1917f2992f96cc3d7f2ddb8814f",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
