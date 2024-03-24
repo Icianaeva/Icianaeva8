@@ -1,0 +1,26 @@
+{
+  "name": "Ethan Jensen",
+  "age": 39,
+  "address": {
+    "street": "Jebu Square",
+    "city": "Nuemdu",
+    "state": "DE",
+    "zip": "38220"
+  },
+  "contact": {
+    "phone": "(460) 446-2940",
+    "servicePhone": "800119548"
+  },
+  "birthday": "1984-07-14T13:20:03.961Z",
+  "ip": "15.132.17.33",
+  "foo": "bar",
+  "profile": {
+    "about": "Vudtutke mita jajsinwu mofdauwo ma owogu hapoapa zevto ta hu jo ruf ro. Bocfe ehfol sehca zajti baflijrav ocfat er usiep ce boeh vokzadeh fiakijow api da bud. Pidkut cabvalo pohaz lujo eje izrople mi lam apovkud si denegvu verohe tuclo eca.",
+    "bio": "Luslohhe kucuz foig wotatevi calocig muduh tasu emi uja pu dowluk wak. He tifolefo soaco cigog cab va ho huzulcar jo osejimus dus hu ubu. Fil uribeb vof vit vopihul bunuz zipec ilej cirded lefsu mikrife lejut wuhoki waba meduni fedu vih. Cuvbuz titwa heobihos hos jaw hemo sidmamen mizpoman kafmetes ze af fap linardo lofeguk ru."
+  },
+  "apiKey": "96b2855e740a7b636b1f2d066158f3604f783f33833847f48a978608c7d77c51",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
